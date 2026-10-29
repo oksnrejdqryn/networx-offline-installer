@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Network+Monitor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NetWorx Free Installer** — NetWorx is a free Windows and macOS network monitoring and bandwidth measurement tool that tracks internet usage, displays real-time connection speeds, and generates daily, weekly, and monthly usage reports — useful for monitoring data caps and identifying heavy users.. Works without internet access, no account required. Full offline installation.
+**💻 NetWorx Free Installer** — NetWorx is a free Windows and macOS network monitoring and bandwidth measurement tool that tracks internet usage, displays real-time connection speeds, and generates daily, weekly, and monthly usage reports — useful for monitoring data caps and identifying heavy users. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -121,7 +121,7 @@ NetWorx is a free Windows and macOS network monitoring and bandwidth measurement
 
 ---
 
-**NetWorx Free Installer** — NetWorx is a free Windows and macOS network monitoring and bandwidth measurement tool that tracks internet usage, displays real-time connection speeds, and generates daily, weekly, and monthly usage reports — useful for monitoring data caps and identifying heavy users.. Install without internet connection today!
+**NetWorx Free Installer** — NetWorx is a free Windows and macOS network monitoring and bandwidth measurement tool that tracks internet usage, displays real-time connection speeds, and generates daily, weekly, and monthly usage reports — useful for monitoring data caps and identifying heavy users. Install without internet connection today!
 
 <div align="center">
 
